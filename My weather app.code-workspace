@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "My weather app"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.live-server",
+			"ritwickdey.liveserver"
+		]
+	},
+	"settings": {
+		"liveServer.settings.CustomBrowser": "microsoft-edge",
+		"liveServer.settings.fullReload": true,
+		"liveServer.settings.NoBrowser": true
+	}
+}
